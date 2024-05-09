@@ -1,0 +1,7 @@
+pandas
+transformers
+scipy
+tweepy
+scikit-learn
+nltk
+imblearn
